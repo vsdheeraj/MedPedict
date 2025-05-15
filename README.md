@@ -12,7 +12,7 @@ A Django-based web application that predicts health risks for various conditions
 
 ## Project Structure
 
-```
+
 project/
 ├── backend/
 │   ├── views.py       # Contains all view functions and prediction logic
@@ -31,7 +31,7 @@ project/
 │   ├── kidney_model.pkl
 │   ├── diabetes_model.pkl
 │   ├── liver_model.pkl
-```
+
 
 ## Setup Instructions
 
